@@ -1,0 +1,5 @@
+Pipeline(steps=[('standardscaler', StandardScaler()),
+                ('pca', PCA(n_components=0.999)),
+                ('randomforestclassifier',
+                 RandomForestClassifier(max_depth=15, n_estimators=300,
+                                        random_state=42))])

@@ -1,0 +1,15 @@
+artifact_uri: file:///g:/workspace/e2e_ml_project/notebooks/../models/mlruns/241658575313021916/4f106e0e9c8845369bb40c9f2c618d71/artifacts
+end_time: 1691241070010
+entry_point_name: ''
+experiment_id: '241658575313021916'
+lifecycle_stage: active
+run_id: 4f106e0e9c8845369bb40c9f2c618d71
+run_name: RandomForestClassifier
+run_uuid: 4f106e0e9c8845369bb40c9f2c618d71
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1691241064796
+status: 3
+tags: []
+user_id: Sameh

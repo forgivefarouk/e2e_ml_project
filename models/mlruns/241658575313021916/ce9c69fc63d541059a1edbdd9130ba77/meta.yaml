@@ -1,0 +1,15 @@
+artifact_uri: file:///g:/workspace/e2e_ml_project/notebooks/../models/mlruns/241658575313021916/ce9c69fc63d541059a1edbdd9130ba77/artifacts
+end_time: 1691241090350
+entry_point_name: ''
+experiment_id: '241658575313021916'
+lifecycle_stage: active
+run_id: ce9c69fc63d541059a1edbdd9130ba77
+run_name: Pipeline
+run_uuid: ce9c69fc63d541059a1edbdd9130ba77
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1691241088482
+status: 3
+tags: []
+user_id: Sameh
